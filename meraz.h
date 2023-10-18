@@ -1,59 +1,60 @@
 #include <stdio.h>
-#include <string.h>
 #include <stdlib.h>
-#include <time.h>
+#include <string.h>
+#include <ctype.h>
 
-int vali_num(int ri,int rf,const char msge[]);
-int busquedasec(int vector1[],int tam,int val);
-void ordenavector(int vector1[],int tam);
+int validanum_int(int ri, int rf ,const char msg[],const char msger[]);
+long validanum_long(long ri, long rf ,const char msg[],const char msger[]);
+char* valida_enie(char* cadena);
 
-int busquedasec(int vector1[], int tam, int num)
+int validanum_int(int ri, int rf , const char msg[], const char msger[])
 {
-    int i;
-    for (i = 0; i < tam; i++)
-    {
-
-        if (num == vector1[i])
-        {
-            return i;
-        }
-    }
-    return -1;
+	char xnum[30];
+	int num;
+	do{
+		puts(msg);
+		fflush(stdin);
+		gets(xnum);
+		num=atoi(xnum);
+		if (num<ri || num> rf)
+		{
+			printf("%s \n",msger);
+		}	
+	}while(num<ri||num>rf);
+	return num;
+    system("PAUSE");	
+	
 }
 
-int vali_num(int ri, int rf, const char msge[])
+long validanum_long(long ri, long rf ,const char msg[],const char msger[])
 {
-    char xnum[30];
-    int num;
-    do
-    {
-        printf("%s:", msge);
-        fflush(stdin);
-        gets(xnum);
-        num = atoi(xnum);
-        if (num < ri || num > rf)
-        {
-            printf("QUE ESTE DENTRO DEL RANGO(%d a %d) \n", ri, rf);
-            system("PAUSE");
-        }
-    } while (num < ri || num > rf);
-    return num;
+	char xnum[50];
+	long num;
+	do{
+		puts(msg);
+		fflush(stdin);
+		gets(xnum);
+		num=atol(xnum);
+		if (num<ri || num> rf)
+		{
+			printf("%s \n",msger);
+		}	
+	}while(num<ri||num>rf);
+	return num;
+    system("PAUSE");
 }
 
-void ordenavector(int vector1[], int tam)
+char* valida_enie(char* cadena)
 {
-    int i, j;
-    int burb;
-    for (i = 0; i < tam; i++)
+    int tam,i;
+    tam = strlen(cadena);
+    for(i=0; i<tam; i++)
     {
-        for (j = i + 1; j < tam; j++)
+        if(cadena[i] == -61)
         {
-            if (vector1[j] < vector1[i])
-            {
-                burb = vector1[j];
-                vector1[j] = vector1[i];
-                vector1[i] = burb;
-            }
+
+            cadena[i] = 'X';
         }
     }
+    return cadena;
 }
