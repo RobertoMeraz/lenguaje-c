@@ -1,0 +1,101 @@
+  No   MATRICULA   NOMBRE        APELLIDO PAT.       APELLIDO MAT.     EDAD    SEXO       
+0      324182           YAEL           GOMEZ             RIVAS          20       HOMBRE 
+1      312766           LUNA        CALDERON             LOPEZ          17        MUJER 
+2      317476         MIZAEL            RUIZ             ORTIZ          13       HOMBRE 
+3      306174           LUIS            COTA          ZAMBRANO          20       HOMBRE 
+4      301034            ANA        CALDERON          ZAMBRANO          18        MUJER 
+5      300762         ISABEL        CALDERON            GARCIA          14        MUJER 
+6      315402         DANIEL           AVALA              ARCE          21       HOMBRE 
+7      313632           SAID        DEL REAL             RIVAS          17       HOMBRE 
+8      302871           LUNA          MEDINA        CANDELARIO          18        MUJER 
+9      307890         KARELY            RUIZ            GARCIA          19        MUJER 
+10      326579         ISABEL           MERAZ            GARCIA          14        MUJER 
+11      311817         MIZAEL         SANCHEZ              ARCE          15       HOMBRE 
+12      319149         DANIEL          MEDINA          ZAMBRANO          19       HOMBRE 
+13      323053         ISABEL           GOMEZ              ARCE          12        MUJER 
+14      301909            ANA           GOMEZ            CASTRO          20        MUJER 
+15      324467           LUNA           MERAZ            PULIDO          19        MUJER 
+16      328227       FERNANDO            COTA            PULIDO          13       HOMBRE 
+17      328758            ANA           AVALA             LOPEZ          16        MUJER 
+18      305544         MIZAEL         SANCHEZ            PULIDO          13       HOMBRE 
+19      319705        ALONDRA        CALDERON             ORTIZ          15        MUJER 
+20      325906            MIA           PEREZ             ORTIZ          19        MUJER 
+21      302012       FERNANDO           GOMEZ            MORENO          19       HOMBRE 
+22      316102        OSVALDO            COTA              ARCE          12       HOMBRE 
+23      327677        ALONDRA         SANCHEZ             LOPEZ          12        MUJER 
+24      325305         KARELY        CALDERON            CASTRO          14        MUJER 
+25      317617            ANA        CALDERON             RIVAS          17        MUJER 
+26      326896        ALONDRA        DEL REAL            CASTRO          17        MUJER 
+27      300131         DANIEL          MEDINA            GARCIA          18       HOMBRE 
+28      328058         ISABEL           PEREZ          QUINTERO          14        MUJER 
+29      327884            ANA            RUIZ            MORENO          21        MUJER 
+30      319178         KARELY           MERAZ             RIVAS          18        MUJER 
+31      301780        OSVALDO           GOMEZ            MARRON          19       HOMBRE 
+32      332377         MELVIN          MEDINA          ZAMBRANO          16       HOMBRE 
+33      306889       GABRIELA           AVALA              ARCE          19        MUJER 
+34      305020         KARELY        DEL REAL            MARRON          19        MUJER 
+35      312542           GAEL            COTA             LOPEZ          21       HOMBRE 
+36      312450         MIZAEL            RUIZ            PULIDO          17       HOMBRE 
+37      300518           LENA           AVALA            GARCIA          13        MUJER 
+38      308753           LENA        DEL REAL        CANDELARIO          12        MUJER 
+39      328785           GAEL           MERAZ          ZAMBRANO          19       HOMBRE 
+40      300226       GABRIELA         JIMENEZ             LOPEZ          12        MUJER 
+41      316774        OSVALDO            COTA            CASTRO          17       HOMBRE 
+42      319738        ALONDRA            RUIZ        CANDELARIO          17        MUJER 
+43      304834          SOFIA         SANCHEZ            MORENO          15        MUJER 
+44      307466            MIA            COTA            CASTRO          15        MUJER 
+45      318480        ALONDRA        DEL REAL        CANDELARIO          13        MUJER 
+46      314762         MELVIN           PEREZ             RIVAS          17       HOMBRE 
+47      327946         MIZAEL         JIMENEZ             RIVAS          15       HOMBRE 
+48      317425          SOFIA            RUIZ            MORENO          19        MUJER 
+49      318383           LUIS        DEL REAL              ARCE          14       HOMBRE 
+50      317305           SAID        CALDERON            MORENO          15       HOMBRE 
+51      305862         DANIEL           GOMEZ             RIVAS          14       HOMBRE 
+52      313393          SOFIA           MERAZ        CANDELARIO          20        MUJER 
+53      314514         KARELY           PEREZ             RIVAS          15        MUJER 
+54      329827         MIZAEL        CALDERON            CASTRO          21       HOMBRE 
+55      313814           LUIS            RUIZ            MORENO          20       HOMBRE 
+56      311336           GAEL           MERAZ            MORENO          20       HOMBRE 
+57      327947       GABRIELA         SANCHEZ             ORTIZ          19        MUJER 
+58      302920           YAEL           MERAZ            MARRON          14       HOMBRE 
+59      323040         MIZAEL          MEDINA             ORTIZ          13       HOMBRE 
+60      331094         SIRENA           MERAZ          ZAMBRANO          14        MUJER 
+61      313586           GAEL            COTA          ZAMBRANO          17       HOMBRE 
+62      305164        OSVALDO           PEREZ              ARCE          16       HOMBRE 
+63      326604           LENA            COTA             RIVAS          19        MUJER 
+64      306147         SIRENA        DEL REAL          ZAMBRANO          14        MUJER 
+65      304416         ISABEL       HERNANDEZ            MARRON          13        MUJER 
+66      303862          OSCAR         SANCHEZ            CASTRO          20       HOMBRE 
+67      305479           LENA           MERAZ            MARRON          13        MUJER 
+68      325144          OSCAR       HERNANDEZ        CANDELARIO          17       HOMBRE 
+69      330487         KARELY            RUIZ            PULIDO          21        MUJER 
+70      310323         SIRENA         SANCHEZ             LOPEZ          12        MUJER 
+71      329795           SAID        CALDERON            PULIDO          15       HOMBRE 
+72      320483         SIRENA        CALDERON              ARCE          20        MUJER 
+73      309207        ROBERTO          MEDINA            MORENO          16       HOMBRE 
+74      332626            MIA        CALDERON             LOPEZ          20        MUJER 
+75      303731       GABRIELA          MEDINA            GARCIA          18        MUJER 
+76      318038           LUNA           AVALA             RIVAS          14        MUJER 
+77      300200         DANIEL           MERAZ            CASTRO          16       HOMBRE 
+78      332488         SIRENA        DEL REAL            GARCIA          17        MUJER 
+79      304337         MIZAEL         JIMENEZ            MORENO          19       HOMBRE 
+80      330534          SOFIA         SANCHEZ              ARCE          19        MUJER 
+81      305493         MIZAEL        CALDERON             LOPEZ          21       HOMBRE 
+82      317292         ISABEL        DEL REAL          ZAMBRANO          17        MUJER 
+83      301851        ALONDRA         SANCHEZ            MARRON          13        MUJER 
+84      320558           LUIS           MERAZ            CASTRO          12       HOMBRE 
+85      303180          OSCAR         JIMENEZ            PULIDO          14       HOMBRE 
+86      305146           LENA        CALDERON              ARCE          15        MUJER 
+87      310095            ANA        CALDERON              ARCE          14        MUJER 
+88      331500        OSVALDO            RUIZ             LOPEZ          14       HOMBRE 
+89      317953           LENA           PEREZ            MORENO          21        MUJER 
+90      326802        ROBERTO           MERAZ             LOPEZ          12       HOMBRE 
+91      311605         MELVIN        CALDERON             LOPEZ          21       HOMBRE 
+92      327681       FERNANDO          MEDINA              ARCE          15       HOMBRE 
+93      331883            ANA         JIMENEZ            PULIDO          15        MUJER 
+94      300599           YAEL            RUIZ            MORENO          12       HOMBRE 
+95      317907          OSCAR           MERAZ          ZAMBRANO          14       HOMBRE 
+96      300723         MIZAEL           MERAZ            GARCIA          18       HOMBRE 
+97      330372           LENA         JIMENEZ          ZAMBRANO          13        MUJER 
+98      304722         ISABEL         SANCHEZ             LOPEZ          18        MUJER 
+99      302840       FERNANDO            RUIZ            GARCIA          14       HOMBRE 
